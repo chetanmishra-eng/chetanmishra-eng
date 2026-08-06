@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assistantjarvis&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=assistantjarvis&theme=discord" alt="assistantjarvis" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanmishr-eng&theme=discord" alt="chetanmishra-eng" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Node.js, Data Science, DevOps**
 - 💬 Ask me about **Frontend Development, Data Science, DevOps**
@@ -62,11 +62,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanmishra-eng&langs_count=8&theme=highcontrast" alt="assistantjarvis" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanmishra-eng&langs_count=8&theme=highcontrast" alt="chetanmishra-eng" />
 
-<p> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=chetanmishra-eng&show_icons=true&locale=en&theme=highcontrast" alt="assistantjarvis" /></p>
+<p> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=chetanmishra-eng&show_icons=true&locale=en&theme=highcontrast" alt="chetanmishra-eng" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanmishra-eng&theme=" alt="assistantjarvis" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanmishra-eng&theme=" alt="chetanmishr-eng" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
