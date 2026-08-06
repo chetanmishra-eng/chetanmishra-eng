@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Mishra</h1>
 
 <h3 align="center">
-Software Engineer | Backend Developer | Full Stack Developer
+Software Engineer | Backend Developer | Full Stack Developer | Flutter Developer
 </h3>
 
 <p align="center">
@@ -26,25 +26,39 @@ Software Engineer | Backend Developer | Full Stack Developer
 
 # 💫 About Me
 
-🎓 B.Tech in Information Technology (AKGEC)
+<table>
+<tr>
+<td width="60%" valign="top">
 
-💼 Software Engineering Intern at Stone Sapphire India
+🎓 **B.Tech in Information Technology (AKGEC)**
 
-💻 Passionate about Backend Development, Distributed Systems and Full Stack Engineering
+💼 **Software Engineering Intern at Stone Sapphire India**
 
-🚀 Experienced with Java, Node.js, React.js, FastAPI, Redis and Docker
+💻 Passionate about **Backend Development**, **Distributed Systems**, and **Full Stack Engineering**
 
-🌱 Currently learning Spring Boot, Microservices and System Design
+🚀 Experienced with **Java, Node.js, React.js, FastAPI, Redis, Docker, and Kubernetes**
 
-🔥 Solved 300+ LeetCode problems
+🌱 Currently learning **Spring Boot, Microservices, AWS, and System Design**
 
-📍 Delhi, India
+🔥 Solved **300+ LeetCode** problems
 
-📫 **Email:** ch.chetanmishra@gmail.com
+📍 **Delhi, India**
 
-📄 **Resume:** *(Add your Google Drive or portfolio resume link here)*
+📫 **Email:** **ch.chetanmishra@gmail.com**
+
+📄 **Resume:** *Add your resume link here*
 
 ⚡ **Fun Fact:** I enjoy building products that solve real-world problems.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://camo.githubusercontent.com/43e5a52898ea4be287096bb93f90c434fc51dad4ba1a56c1b4038b6d1e812fd1/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
