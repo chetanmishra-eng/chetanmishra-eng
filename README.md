@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=chetanmishra-eng">
+<img src="https://komarev.com/ghpvc/?username=chetanmishra-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 <h1 align="center">Hi 👋, I'm Chetan Mishra</h1>
 
 <h3 align="center">
